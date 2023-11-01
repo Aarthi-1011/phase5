@@ -1,5 +1,5 @@
 # phase5
-# COVID-19 Data Analysis and Linear Regression
+# Customer Segmentation using Data Science
 
 This Python script analyzes Customer Segmentation using Data science using Pandas and performs a simple linear regression using scikit-learn to predict the number of confirmed cases based on the number of cured and deceased cases. Additionally, it provides a mean squared error as a measure of the model's performance.
 
